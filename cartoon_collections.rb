@@ -28,4 +28,5 @@ def find_the_cheese(strings)
       return string
     end
   end
+  return nil
 end
